@@ -6,9 +6,11 @@
   "author": "Van Dong <thenullmastermind@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/uuid": "^10.0.0",
     "fs-extra": "^11.2.0"
   },
   "dependencies": {
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "uuid": "^10.0.0"
   }
 }
